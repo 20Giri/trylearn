@@ -1,0 +1,5 @@
+DeviceID: v37EE162D7B974EA
+
+Data: ?allowed_members=$allowed_members$&Member_ID=$Member_ID$
+
+script:https://script.google.com/macros/s/AKfycbyuEjmMYnbitxsSbqsvS3OMmRTC0BgSX56Amvnn-Tt2WH2bGyScf2eY/exec
